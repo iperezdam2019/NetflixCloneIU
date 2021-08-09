@@ -4,4 +4,4 @@ App en flutter
 
 ## Descripción
 
-Interfaz de pantalla inicial de Netflix
+Interfaz de pantalla inicial de Netflix.
